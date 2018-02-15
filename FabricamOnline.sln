@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabricam.Auth", "Fabricam.Auth\Fabricam.Auth.csproj", "{CCE3DF65-09DC-49CE-AC76-6DAC09B340F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabricam.Web", "Fabricam.Web\Fabricam.Web.csproj", "{BBB7EF02-B1EF-475A-999A-0B7B06CE5650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE3DF65-09DC-49CE-AC76-6DAC09B340F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE3DF65-09DC-49CE-AC76-6DAC09B340F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE3DF65-09DC-49CE-AC76-6DAC09B340F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE3DF65-09DC-49CE-AC76-6DAC09B340F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB7EF02-B1EF-475A-999A-0B7B06CE5650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB7EF02-B1EF-475A-999A-0B7B06CE5650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB7EF02-B1EF-475A-999A-0B7B06CE5650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB7EF02-B1EF-475A-999A-0B7B06CE5650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB5D0CF-E756-4D71-8CA7-4A7576E12C13}
+	EndGlobalSection
+EndGlobal
